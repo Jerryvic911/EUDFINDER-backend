@@ -2,6 +2,15 @@ import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
 
 @Schema()
+export class Accommodation {
+  @Prop({ required: true })
+  hostel: number;
+
+  @Prop({ required: true })
+  feeding: number;
+}
+
+@Schema()
 export class School extends Document {
   @Prop({ required: true })
   name: string;
@@ -9,13 +18,13 @@ export class School extends Document {
   @Prop()
   location: string;
 
-  @Prop()
-  fees: string;
+  @Prop({ required: true }) // Assuming fees is required
+  schoolFees: number; // Change to number
 
-  @Prop()
-  accommodation: string;
+  @Prop({ type: Accommodation }) // Change to accommodate the object structure
+  accommodation: Accommodation; // Change to the Accommodation type
 
-  @Prop([String])
+  @Prop({ type: [String] })
   courses: string[];
 
   @Prop()
