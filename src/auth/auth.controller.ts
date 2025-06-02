@@ -1,14 +1,20 @@
 import { Controller, Post, Body } from '@nestjs/common';
-import { JwtService } from '@nestjs/jwt';
+import { AuthService } from './auth.service';
+import { CreateAdminDto } from './auth.dto';
 
 @Controller('auth')
 export class AuthController {
-  constructor(private jwtService: JwtService) {}
+  constructor(private readonly authService: AuthService) {}
+
+  @Post('register')
+  async register(@Body() dto: CreateAdminDto) {
+    const user = await this.authService.registerAdmin(dto); //
+    return this.authService.login(user);
+  }
 
   @Post('login')
-  login(@Body() body: { email: string; role: string }) {
-    const payload = { sub: 'some-id', email: body.email, role: body.role };
-    const token = this.jwtService.sign(payload);
-    return { access_token: token };
+  async login(@Body() dto: CreateAdminDto) {
+    const user = await this.authService.validateUser(dto.email, dto.password);
+    return this.authService.login(user);
   }
 }

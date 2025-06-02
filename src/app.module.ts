@@ -7,6 +7,7 @@ import { SchoolModule } from './modules/school/school.module';
 import { AuthModule } from './auth/auth.module';
 import { AuthController } from './auth/auth.controller';
 import { JwtStrategy } from './auth/jwt.strategy';
+import { UserModule } from './user/user.module';
 
 @Module({
   imports: [
@@ -18,6 +19,7 @@ import { JwtStrategy } from './auth/jwt.strategy';
       inject: [ConfigService],
     }),
     SchoolModule,
+    UserModule,
     AuthModule, // ✅ Import the full module here
   ],
   controllers: [AppController, AuthController], // ✅ Add the AuthController here

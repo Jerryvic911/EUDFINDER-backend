@@ -31,6 +31,9 @@ export class CreateSchoolDto {
   @IsNumber()
   schoolFees: number;
 
+  @IsString()
+  aboutSchool: string;
+
   @ValidateNested({ each: true }) // If accommodation can be an array, add { each: true }
   @Type(() => AccommodationDto)
   accommodation: AccommodationDto; // or AccommodationDto[] if it can be an array

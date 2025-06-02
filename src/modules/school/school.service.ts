@@ -20,8 +20,22 @@ export class SchoolService {
   async findById(id: string): Promise<School | null> {
     return this.schoolModel.findById(id).exec();
   }
-
   async searchByName(name: string): Promise<School[]> {
-    return this.schoolModel.find({ name: new RegExp(name, 'i') }).exec();
+    const cleanedName = name.trim();
+    return this.schoolModel.find({ name: new RegExp(cleanedName, 'i') }).exec();
+  }
+
+  async searchByLocation(location: string): Promise<School[]> {
+    const cleanedLocation = location.trim();
+    return this.schoolModel
+      .find({ location: new RegExp(cleanedLocation, 'i') })
+      .exec();
+  }
+
+  async searchByCourse(courseName: string): Promise<School[]> {
+    const cleanedCourse = courseName.trim();
+    return this.schoolModel
+      .find({ courses: { $regex: new RegExp(cleanedCourse, 'i') } })
+      .exec();
   }
 }
