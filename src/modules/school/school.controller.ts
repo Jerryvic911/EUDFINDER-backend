@@ -1,4 +1,13 @@
-import { Controller, Get, Post, Body, Param, UseGuards } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Body,
+  Param,
+  UseGuards,
+  Delete,
+  Put,
+} from '@nestjs/common';
 import { SchoolService } from './school.service';
 import { CreateSchoolDto } from './school.dto';
 import { AuthGuard } from '@nestjs/passport';
@@ -14,6 +23,22 @@ export class SchoolController {
   @Roles('admin')
   create(@Body() createSchoolDto: CreateSchoolDto) {
     return this.schoolService.create(createSchoolDto);
+  }
+
+  // 🟡 Update school (Admins only)
+  @Put(':id')
+  @UseGuards(AuthGuard('jwt'), RolesGuard)
+  @Roles('admin')
+  update(@Param('id') id: string, @Body() updateDto: CreateSchoolDto) {
+    return this.schoolService.update(id, updateDto);
+  }
+
+  // 🔴 Delete school (Admins only)
+  @Delete(':id')
+  @UseGuards(AuthGuard('jwt'), RolesGuard)
+  @Roles('admin')
+  remove(@Param('id') id: string) {
+    return this.schoolService.remove(id);
   }
 
   @Get()

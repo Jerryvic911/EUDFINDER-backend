@@ -38,4 +38,13 @@ export class SchoolService {
       .find({ courses: { $regex: new RegExp(cleanedCourse, 'i') } })
       .exec();
   }
+
+  // school.service.ts
+  async update(id: string, updateDto: CreateSchoolDto) {
+    return this.schoolModel.findByIdAndUpdate(id, updateDto, { new: true });
+  }
+
+  async remove(id: string) {
+    return this.schoolModel.findByIdAndDelete(id);
+  }
 }
