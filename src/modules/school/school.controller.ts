@@ -62,6 +62,10 @@ export class SchoolController {
   searchByCourse(@Param('course') course: string) {
     return this.schoolService.searchByCourse(course);
   }
+  @Get('search/score/:score')
+  searchByScore(@Param('score') score: string) {
+    return this.schoolService.searchByScore(score);
+  }
 
   @Get(':id')
   findById(@Param('id') id: string) {

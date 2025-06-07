@@ -26,6 +26,7 @@ export class CreateSchoolDto {
   hasPostUtme: boolean;
 
   @IsNumber()
+  @Type(() => Number)
   cutOffMark: number;
 
   @IsNumber()

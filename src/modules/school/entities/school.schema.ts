@@ -39,7 +39,7 @@ export class School {
   @Prop()
   hasPostUtme: boolean;
 
-  @Prop()
+  @Prop({ type: Number })
   cutOffMark: number;
 
   @Prop()

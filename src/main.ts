@@ -20,7 +20,7 @@ async function bootstrap() {
   app.use(cookieParser());
 
   // Validation
-  app.useGlobalPipes(new ValidationPipe({ whitelist: true }));
+  app.useGlobalPipes(new ValidationPipe({ whitelist: true, transform: true }));
 
   // Global prefix (optional, but good for versioning)
   app.setGlobalPrefix('api');

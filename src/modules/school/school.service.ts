@@ -38,6 +38,16 @@ export class SchoolService {
       .find({ courses: { $regex: new RegExp(cleanedCourse, 'i') } })
       .exec();
   }
+  async searchByScore(score: string): Promise<School[]> {
+    const numericScore = Number(score.trim());
+    if (isNaN(numericScore)) {
+      return []; // or throw error
+    }
+    return this.schoolModel
+      .find({ cutOffMark: { $gte: numericScore } })
+      .sort({ cutOffMark: 1 })
+      .exec();
+  }
 
   // school.service.ts
   async update(id: string, updateDto: CreateSchoolDto) {
