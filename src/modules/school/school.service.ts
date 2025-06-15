@@ -45,7 +45,7 @@ export class SchoolService {
     }
     return this.schoolModel
       .find({ cutOffMark: { $gte: numericScore } })
-      .sort({ cutOffMark: 1 })
+      .sort({ cutOffMark: -1 })
       .exec();
   }
 
