@@ -57,4 +57,8 @@ export class SchoolService {
   async remove(id: string) {
     return this.schoolModel.findByIdAndDelete(id);
   }
+
+  async deleteAll() {
+    return this.schoolModel.deleteMany({});
+  }
 }

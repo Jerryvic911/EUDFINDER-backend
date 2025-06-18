@@ -1,0 +1,4410 @@
+[
+  {
+    "name": "Abubakar Tafawa Balewa University, Bauchi",
+    "type": "Federal",
+    "location": "Prof. Ibrahim Hassan Garba",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Ahmadu Bello University, Zaria",
+    "type": "Federal",
+    "location": "Prof. Adamu Ahmed",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Bayero University, Kano",
+    "type": "Federal",
+    "location": "Professor Sagir Abbas",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University Gashua, Yobe",
+    "type": "Federal",
+    "location": "Prof. Maimuna Waziri",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Petroleum Resources, Effurun",
+    "type": "Federal",
+    "location": "Prof. Engr.  Akpofure Rim-Rukey",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Technology, Akure",
+    "type": "Federal",
+    "location": "Prof. Adenike Oladiji",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Technology, Minna",
+    "type": "Federal",
+    "location": "Professor Faruk Adamu Kuta",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Technology, Owerri",
+    "type": "Federal",
+    "location": "Prof. (Mrs) Nnenna Nnannaya Oti",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Dutse, Jigawa State",
+    "type": "Federal",
+    "location": "Prof. Armaya\u2019u Bichi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Dutsin-Ma, Katsina",
+    "type": "Federal",
+    "location": "Prof. Abdulkarim Sabo Mohammed",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Kashere, Gombe State",
+    "type": "Federal",
+    "location": "Prof. Umaru A Pate",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Lafia, Nasarawa State",
+    "type": "Federal",
+    "location": "Professor Sheju Adbul Rahman",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Lokoja, Kogi State",
+    "type": "Federal",
+    "location": "Professor Olayemi Akinwunmi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Alex Ekwueme University, Ndufu-Alike, Ebonyi State",
+    "type": "Federal",
+    "location": "Prof. Sunday Oge Elom",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Otuoke, Bayelsa",
+    "type": "Federal",
+    "location": "Professor Teddy Charles Adias",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Oye-Ekiti, Ekiti State",
+    "type": "Federal",
+    "location": "Prof. Abayomi Sunday Fasina",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Wukari, Taraba State",
+    "type": "Federal",
+    "location": "Professor Jude Sammani Rabo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Birnin Kebbi",
+    "type": "Federal",
+    "location": "Prof. Muhammad Zaiyan Umar",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University, Gusau Zamfara",
+    "type": "Federal",
+    "location": "Prof. Muazu Abubakar Gusau",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Michael Okpara University of Agricultural Umudike",
+    "type": "Federal",
+    "location": "Professor Maduebibisi Ofo Iwe",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Modibbo Adama University of Technology, Yola",
+    "type": "Federal",
+    "location": "Prof. Ibrahim Umar",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "National Open University of Nigeria, Abuja",
+    "type": "Federal",
+    "location": "Professor Olufemi Peters",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Nigeria Police Academy Wudil",
+    "type": "Federal",
+    "location": "AIG Sadiq Idris Abubakar",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Nigerian Defence Academy Kaduna",
+    "type": "Federal",
+    "location": "Professor Isah Garba (Provost)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Nnamdi Azikiwe University, Awka",
+    "type": "Federal",
+    "location": "Prof. Joseph I. Ikechebelu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Obafemi Awolowo University,Ile-Ife",
+    "type": "Federal",
+    "location": "Professor Adebayo Simeon Bamire",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Abuja, Gwagwalada",
+    "type": "Federal",
+    "location": "Prof. Patricia Manko Lar (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Agriculture, Abeokuta",
+    "type": "Federal",
+    "location": "Prof. Olusola B. Kehinde",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Joseph Sarwuan Tarka University, Makurdi",
+    "type": "Federal",
+    "location": "Prof. Isaac N. Itodo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Benin",
+    "type": "Federal",
+    "location": "Prof. Adoba Bright Omoregie",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Calabar",
+    "type": "Federal",
+    "location": "Prof. Florence Obi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Ibadan",
+    "type": "Federal",
+    "location": "Professor Kayode Oyebode Adebowale",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Ilorin",
+    "type": "Federal",
+    "location": "Prof. Wahab O. Egbewole",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Jos",
+    "type": "Federal",
+    "location": "Prof. Tanko Ishaya",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Lagos",
+    "type": "Federal",
+    "location": "Prof. Folasade T Ogunsola",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Maiduguri",
+    "type": "Federal",
+    "location": "Prof. Mohammed L. Mele",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Nigeria, Nsukka",
+    "type": "Federal",
+    "location": "Prof.  Oguejiofo T. Ujam (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Port-Harcourt",
+    "type": "Federal",
+    "location": "Professor Owunari Georgewill",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Uyo",
+    "type": "Federal",
+    "location": "Professor Nyaudo Ndaeyo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Usumanu Danfodiyo University",
+    "type": "Federal",
+    "location": "Prof.   Bashir Garba",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Nigerian Maritime University Okerenkoko, Delta State",
+    "type": "Federal",
+    "location": "Prof. Emmanuel Adigio",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Air Force Institute of Technology, Kaduna",
+    "type": "Federal",
+    "location": "Prof. Auwal Kassim",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Nigerian Army University Biu",
+    "type": "Federal",
+    "location": "Prof. David Iliya Malgwi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Health Sciences, Otukpo, Benue State",
+    "type": "Federal",
+    "location": "Prof. Stephen O. Abah (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Agriculture, Zuru, Kebbi State",
+    "type": "Federal",
+    "location": "Prof Musa Isiyaku Ahmed",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Technology, Babura, Jigawa State",
+    "type": "Federal",
+    "location": "Prof Sabo I Birnin-kudu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Technology, Ikot Abasi, Akwa Ibom State",
+    "type": "Federal",
+    "location": "Prof Leo Daniel",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Health Sciences, Azare, Bauchi State",
+    "type": "Federal",
+    "location": "Prof Bala Audu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Health Sciences, Ila Orangun, Osun State",
+    "type": "Federal",
+    "location": "Prof Akeem Olawale Lasisi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "David Nweze Umahi Federal University of Medical Sciences, Uburu",
+    "type": "Federal",
+    "location": "Prof. Jesse Uneke",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Admiralty University Ibusa, Delta State",
+    "type": "Federal",
+    "location": "Prof. Dili Ofuokwu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Transportation Daura, Katsina",
+    "type": "Federal",
+    "location": "Prof. Umar Adam Katsayal",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "African Aviation and Aerospace University",
+    "type": "Federal",
+    "location": "Prof. Tilmann Gabriel (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "National University of Science and Technology, Abuja",
+    "type": "Federal",
+    "location": "Prof. J. E. Ahaneku",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Agriculture Bassam-Biri, Bayelsa",
+    "type": "Federal",
+    "location": "Prof. Reginald I. Keremah",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Health Sciences Kwale, Delta State",
+    "type": "Federal",
+    "location": "Prof. Abel Nze Onunu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Health Sciences, Katsina",
+    "type": "Federal",
+    "location": "Prof. Bello Bala Shehu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Agriculture, Mubi",
+    "type": "Federal",
+    "location": "Prof. Bitrus D. Tarfa",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Education, Zaria, Kaduna State",
+    "type": "Federal",
+    "location": "Dr. Suleiman Balarebe (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Alvan Ikoku Federal University of Education, Owerri, Imo State",
+    "type": "Federal",
+    "location": "Prof. Stella N. Lenchi (Ag)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Education, Kano",
+    "type": "Federal",
+    "location": "Dr. Sadi Mohammed Sirajo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Adeyemi Federal University of Education, Ondo",
+    "type": "Federal",
+    "location": "Dr. Samuel A. Akintunde",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Allied Health Sciences, Enugu",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Medicine and Medical Sciences, Abeokuta",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Education Pankshin, Plateau State",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Education Kontagora, Niger State",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "University of Maritime Studies, Oron, Akwa Ibom State",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Environment and Technology, Tai Town, Ogoniland, Rivers State",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Applied Sciences, Kachia, Kaduna State",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Tai Solarin Federal University of Education, Ijagun, Ijebu Ode",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Agriculture and Developmental Studies, Iragbuji, Osun State",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Federal University of Technology and Environmental Studies, Iyin-Ekiti, Ekiti State.",
+    "type": "Federal",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Federal university listed by NUC"
+  },
+  {
+    "name": "Achievers University, Owo",
+    "type": "Private",
+    "location": "Professor Samuel Aje",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Adeleke University, Ede",
+    "type": "Private",
+    "location": "Prof. Solomon Ajayi Adebola",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Afe Babalola University, Ado-Ekiti - Ekiti State",
+    "type": "Private",
+    "location": "Prof. E. Smaranda Olarinde",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Ajayi Crowther University, Ibadan",
+    "type": "Private",
+    "location": "Prof. Timothy A. Adebayo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Al-Hikmah University, Ilorin",
+    "type": "Private",
+    "location": "Professor Noah Yusuf",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Al-Qalam University, Katsina",
+    "type": "Private",
+    "location": "Prof.  Nasiru Musa Yauri",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "American University of Nigeria, Yola",
+    "type": "Private",
+    "location": "Dr. Dewayne Frazier",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Augustine University",
+    "type": "Private",
+    "location": "Prof. Christopher Odetunde",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Babcock University,Ilishan-Remo",
+    "type": "Private",
+    "location": "Professor Ademola Stephen Tayo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Baze University",
+    "type": "Private",
+    "location": "Prof. Ebelechukwu K. Okafor (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Bells University of Technology, Otta",
+    "type": "Private",
+    "location": "Professor Jeremiah Ojediran",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Benson Idahosa University, Benin City",
+    "type": "Private",
+    "location": "Prof. Sam Guobadia",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Bingham University, New Karu",
+    "type": "Private",
+    "location": "Prof. Haruna Kuje Ayuba",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Bowen University, Iwo",
+    "type": "Private",
+    "location": "Prof. Jonathan Oyebamiji Babalola",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Caleb University, Lagos",
+    "type": "Private",
+    "location": "Professor Nosa Owens-Ibie",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Caritas University, Enugu",
+    "type": "Private",
+    "location": "Prof. Michael Uchenna Orji",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Chrisland University",
+    "type": "Private",
+    "location": "Prof. Arulogun, Oyedunni \u2018Sola",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Covenant University Ota",
+    "type": "Private",
+    "location": "Prof. Timothy A. Anake",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Crawford University Igbesa",
+    "type": "Private",
+    "location": "Prof.  Reuben Jiya Kolo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Crescent University",
+    "type": "Private",
+    "location": "Professor Ibrahim Gbajabiamila",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Edwin Clark University, Kaigbodo",
+    "type": "Private",
+    "location": "Prof. S.C.O. Ugbolue (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Elizade University, Ilara-Mokin",
+    "type": "Private",
+    "location": "Prof. Kayode Ijadunola",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Evangel University, Akaeze",
+    "type": "Private",
+    "location": "Prof. I U Kalu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Fountain Unveristy, Oshogbo",
+    "type": "Private",
+    "location": "Prof. Olayinka Ramota",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Gregory University, Uturu",
+    "type": "Private",
+    "location": "Prof. Celestine U. Njoku",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Hallmark University, Ijebi Itele, Ogun",
+    "type": "Private",
+    "location": "Prof. Segun Odunola",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Hezekiah University, Umudi",
+    "type": "Private",
+    "location": "Prof. Chiedozie O. Ibegbulem",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Godfrey Okoye University, Ugwuomu-Nike - Enugu State",
+    "type": "Private",
+    "location": "Prof. (Revd.) Chikelu. Anieke",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "African University of Science and Technology, Abuja",
+    "type": "Private",
+    "location": "Prof. Azikiwe Peter Onwualu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Igbinedion University Okada",
+    "type": "Private",
+    "location": "Professor Lawrence Ikechukwu Ezemonye",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Joseph Ayo Babalola University, Ikeji-Arakeji",
+    "type": "Private",
+    "location": "Prof. Olasebikan A. Fakolujo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Kings University, Ode Omu",
+    "type": "Private",
+    "location": "Prof. Adenike Kuku",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Kwararafa University, Wukari",
+    "type": "Private",
+    "location": "Professor Yakubu A Ochefu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Landmark University, Omu-Aran.",
+    "type": "Private",
+    "location": "Prof.  Kolawole O. Ajanaku",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Lead City University, Ibadan",
+    "type": "Private",
+    "location": "Prof. Kabiru Aderemi Adeyemo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Madonna University, Okija",
+    "type": "Private",
+    "location": "Prof. Uchenna Casmir Anyanwu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Mcpherson University, Seriki Sotayo, Ajebo",
+    "type": "Private",
+    "location": "Prof. Adegbaye F. Igbasan",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Micheal & Cecilia Ibru University",
+    "type": "Private",
+    "location": "Prof. (Mrs.) Ibiynka A. Fuwape",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Mountain Top University",
+    "type": "Private",
+    "location": "Prof Elijah Ayolabi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Nile University of Nigeria, Abuja",
+    "type": "Private",
+    "location": "Prof. Dilli Dogo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Novena University, Ogume",
+    "type": "Private",
+    "location": "Prof Chris Aniche Okoroafor",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Obong University, Obong Ntak",
+    "type": "Private",
+    "location": "Professor Udouda M Ekanemesang",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Oduduwa University, Ipetumodu - Osun State",
+    "type": "Private",
+    "location": "Prof. Benjamin Segun Aribisala",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Pan-Atlantic University, Lagos",
+    "type": "Private",
+    "location": "Professor Enase Okonedo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Paul University, Awka - Anambra State",
+    "type": "Private",
+    "location": "Prof. Uche C. Isiugo-Abanihe",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Redeemer's University, Ede",
+    "type": "Private",
+    "location": "Professor Shadrach Olufemi Akindele",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Renaissance University, Enugu",
+    "type": "Private",
+    "location": "Professor Thaddeus Chukwuka Eze",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Rhema University, Obeama-Asa - Rivers State",
+    "type": "Private",
+    "location": "Professor Ogbonnaya Onwudike",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Ritman University, Ikot Ekpene, Akwa Ibom",
+    "type": "Private",
+    "location": "Prof. Celestine A Ntuen",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Salem University, Lokoja",
+    "type": "Private",
+    "location": "Professor Alewo Johnson Akubo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Glorious Vision University, Ogwa, Edo State.",
+    "type": "Private",
+    "location": "Professor Ezekiel Shegun Asemah",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Southwestern University, Oku Owa",
+    "type": "Private",
+    "location": "Prof. Babatunde Odufuwa",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Summit University, Offa",
+    "type": "Private",
+    "location": "Prof. Abiodun Musa Aibinu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Tansian University, Umunya",
+    "type": "Private",
+    "location": "Prof. Eugene Okoye Nwadialor",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "University of Mkar, Mkar",
+    "type": "Private",
+    "location": "Prof. Zacharys A. Gundu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Veritas University, Abuja",
+    "type": "Private",
+    "location": "Prof. Yacinth E. Ichoku",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Wellspring University, Evbuobanosa - Edo State",
+    "type": "Private",
+    "location": "Prof. Isaac Rotimi Ajayi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Wesley University Ondo",
+    "type": "Private",
+    "location": "Prof.  Samuel Sunday Obeka",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Western Delta University, Oghara Delta State",
+    "type": "Private",
+    "location": "Prof. Augustine Ikelegbe",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Christopher University Mowe",
+    "type": "Private",
+    "location": "Prof. Olatunji Afolabi Oyelana",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Kola Daisi University Ibadan, Oyo State",
+    "type": "Private",
+    "location": "Prof. Adeniyi Olatunbosun",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Anchor University Ayobo Lagos State",
+    "type": "Private",
+    "location": "Prof. Samuel Oye-Bandele",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Dominican University Ibadan Oyo State",
+    "type": "Private",
+    "location": "Prof. Jacinta Opara",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Legacy University, Okija Anambra State",
+    "type": "Private",
+    "location": "Prof. Ezekiel Ihionu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Arthur Javis University Akpoyubo Cross river State",
+    "type": "Private",
+    "location": "Prof. Joseph Edet (Ag)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Ojaja University Eiyenkorin, Kwara State",
+    "type": "Private",
+    "location": "Prof. Jeleel Olasunkanmi, Ojuade",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Coal City University Enugu State",
+    "type": "Private",
+    "location": "Prof. Afam Icha-Ituma",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Clifford University Owerrinta Abia State",
+    "type": "Private",
+    "location": "Prof. Chimezie A Omeonu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Spiritan University, Nneochi Abia State",
+    "type": "Private",
+    "location": "Prof. Remy Onyewuenyi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Precious Cornerstone University, Oyo",
+    "type": "Private",
+    "location": "Prof. Julius Kolawole Oloke",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "PAMO University of Medical Sciences, Portharcourt",
+    "type": "Private",
+    "location": "Prof. Christie N. Mato (Ag.) *",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Atiba University Oyo",
+    "type": "Private",
+    "location": "Prof Sunday Okeniyi",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Eko University of Medical and Health Sciences Ijanikin, Lagos",
+    "type": "Private",
+    "location": "Prof. Olusoga Adekunle Sofola",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Skyline University, Kano",
+    "type": "Private",
+    "location": "Dr. Ajith Kumar V V",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Greenfield University, Kaduna",
+    "type": "Private",
+    "location": "Prof. Simon K. Daniel (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Dominion University Ibadan, Oyo State",
+    "type": "Private",
+    "location": "Prof Olajide A. Olorunisola",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Trinity University Ogun State",
+    "type": "Private",
+    "location": "Prof. Clement O.O. Kolawole",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Westland University Iwo, Osun State",
+    "type": "Private",
+    "location": "Prof. Oshiotse A. Okwilagwe",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Topfaith University, Mkpatak, Akwa Ibom State",
+    "type": "Private",
+    "location": "Prof. Patrick James Ebewo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Thomas Adewumi University, Oko-Irese, Kwara State",
+    "type": "Private",
+    "location": "Professor Francisca Oladipo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Maranatha University, Lagos",
+    "type": "Private",
+    "location": "Prof. Prof. Rufus Akinyele",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Ave Maria University, Piyanko, Nasarawa State",
+    "type": "Private",
+    "location": "Prof. Ignatius A. Onimawo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Al-Istiqama University, Sumaila, Kano State",
+    "type": "Private",
+    "location": "Prof. Salisu Shehu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Mudiame University, Irrua, Edo State",
+    "type": "Private",
+    "location": "Prof. Adeyemo Abiodun Oluseye",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Havilla University, Nde-Ikom, Cross River State",
+    "type": "Private",
+    "location": "Prof. Ejor Tiku Ntuokwa",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Claretian University of Nigeria, Nekede, Imo State",
+    "type": "Private",
+    "location": "Rev. Fr. Wenceslaus Madu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "NOK University, Kachia, Kaduna State",
+    "type": "Private",
+    "location": "Prof. Ishaya Haruna Nock",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Karl-Kumm University, Vom, Plateau State",
+    "type": "Private",
+    "location": "Prof. Nanven Audu Gambo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "James Hope University, Lagos, Lagos State",
+    "type": "Private",
+    "location": "Prof. Paul Vita",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Maryam Abacha American University of Nigeria, Kano State",
+    "type": "Private",
+    "location": "Prof. Mohammad Israr",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Capital City University, Kano State",
+    "type": "Private",
+    "location": "Prof Sadiq Zubair Abubakar",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Ahman Pategi University, Kwara State",
+    "type": "Private",
+    "location": "Prof. Adebola Mahfouz Adedimeji",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "University of Offa, Kwara State",
+    "type": "Private",
+    "location": "Prof. Musa Aibinu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Mewar International University, Masaka, Nasarawa State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Edusoko University, Bida, Niger State",
+    "type": "Private",
+    "location": "Prof. M.A.T Suleiman",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Philomath University, Kuje, Abuja",
+    "type": "Private",
+    "location": "Prof. Gylych Jelilov",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Khadija University, Majia, Jigawa State",
+    "type": "Private",
+    "location": "Prof. Hassana Sani Darma",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Anan University, Kwall, Plateau State",
+    "type": "Private",
+    "location": "Prof. Inuwa Musa-Fodio",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "North Eastern University, Gombe",
+    "type": "Private",
+    "location": "Prof. Yusuph Amuda Yahaya",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Al-Ansar University, Maiduguri, Borno",
+    "type": "Private",
+    "location": "Prof. Abubakar Kundiri",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Margaret Lawrence University, Umunede, Delta State",
+    "type": "Private",
+    "location": "Prof. Ernest Izevbigie",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Khalifa Isiyaku Rabiu University, Kano",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Sports University, Idumuje, Ugboko, Delta State",
+    "type": "Private",
+    "location": "Prof. Nduka Uraih",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Baba Ahmed University, Kano State",
+    "type": "Private",
+    "location": "Prof. Adamu Idris Tanko",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Saisa University of Medical Sciences and Technology, Sokoto State",
+    "type": "Private",
+    "location": "Prof. Abdullahi S. Mainasara",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Nigerian British University, Asa, Abia State",
+    "type": "Private",
+    "location": "Professor Hakeem Fawehinmi,",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Peter University, Achina-Onneh Anambra State",
+    "type": "Private",
+    "location": "Rv. Fr. Prof. Emmanuel C. Umezinwa",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Newgate University, MInna, Niger State.",
+    "type": "Private",
+    "location": "Prof. Sadiq Yusuf",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "European University of Nigeria, Duboyi, FCT",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "NorthWest University Sokoto State",
+    "type": "Private",
+    "location": "Prof. Ahmed Maigari Ibrahim",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Rayhaan University, Kebbi",
+    "type": "Private",
+    "location": "Prof. M. L. Ahmadu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Muhammad Kamalud University Kwara",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Sam Maris University, Ondo",
+    "type": "Private",
+    "location": "Prof. Francis A Gbore",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Aletheia University, Ago-Iwoye Ogun State",
+    "type": "Private",
+    "location": "Prof. Onasanya A. Adeyinka",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Lux Mundi University Umuahia, Abia State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Maduka University, Ekwegbe, Enugu State",
+    "type": "Private",
+    "location": "Prof. Charles Ogbulogo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "PeaceLand University, Enugu State",
+    "type": "Private",
+    "location": "Rev. Fr. Prof. Leo Olechukwu",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Amadeus University, Amizi, Abia State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Vision University, Ikogbo, Ogun State",
+    "type": "Private",
+    "location": "Prof. Benjamin Ekenym",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Azman University, Kano State",
+    "type": "Private",
+    "location": "Prof. Fatima Batul Mukhtar",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Huda University, Gusau, Zamafara State",
+    "type": "Private",
+    "location": "Prof. Muhammad Zubair",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Franco British International University, Kaduna State",
+    "type": "Private",
+    "location": "Prof. Abdullahi Sabo Muhammad",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Canadian University of Nigeria, Abuja",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Gerar University of Medical Science Imope Ijebu, Ogun State.",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "British Canadian University, Obufu Cross River State",
+    "type": "Private",
+    "location": "Prof. A. A. Atayero",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Hensard University, Toru-Orua, Sagbama, Bayelsa State",
+    "type": "Private",
+    "location": "Prof. Dileep Kumar M.",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Amaj University, Kwali, Abuja",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Phoenix University, Agwada, Nasarawa State",
+    "type": "Private",
+    "location": "Prof. Abdullahi Bala",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Wigwe University, Isiokpo Rivers State",
+    "type": "Private",
+    "location": "Prof. Marwan Al-Akaidi (Ag.)",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Hillside University of Science and Technology, Okemisi, Ekiti State",
+    "type": "Private",
+    "location": "Prof. Iheanyichukwu Okey Okoro",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "University on the Niger, Umunya, Anambra state",
+    "type": "Private",
+    "location": "Prof. Chinedu Nebo",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Elrazi Medical University Yargaya University, Kano State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Venite University, Iloro-Ekiti, Ekiti State",
+    "type": "Private",
+    "location": "Prof. (Rev. Fr.) James Adeola OLAOGUN",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Shanahan University Onitsha, Anambra State",
+    "type": "Private",
+    "location": "Rev. Fr. Prof. J. Obi Oguejiofor",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "The Duke Medical University, Calabar, Cross River State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Mercy Medical University, Iwo, Ogun State",
+    "type": "Private",
+    "location": "Prof. Ajibade \u2018Bayo Lawal",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Cosmopolitan University Abuja",
+    "type": "Private",
+    "location": "Prof. Carl Adams",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Miva Open University, Abuja FCT",
+    "type": "Private",
+    "location": "Prof. Tayo Arulogun",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Iconic Open University, Sokoto State.",
+    "type": "Private",
+    "location": "Dr. Shadi Sabeh",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "West Midlands Open University, Ibadan, Oyo State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Al-Muhibbah Open University, Abuja",
+    "type": "Private",
+    "location": "Prof. Muhtar Hanif Alhassan",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "El-Amin University, Minna, Niger State",
+    "type": "Private",
+    "location": "Prof. Ladi Hamalai",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "College of Petroleum and Energy Studies, Kaduna State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Jewel University, Gombe state",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Prime University, Kuje, FCT Abuja",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Nigerian University of Technology and Management, Apapa, Lagos State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Al-Bayan University, Ankpa, Kogi State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Lighthouse University, Evbobanosa, Edo State",
+    "type": "Private",
+    "location": "Prof. Anthony Agboizebeta Imianvan",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "African University of Economics, FCT, Abuja",
+    "type": "Private",
+    "location": "Prof. Mahfouz Adedimeji",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "New City University, Ayetoro, Ogun State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "University of Fortune, Igbotako, Ondo State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Eranova University, Abuja",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Minaret University, Ikirun, Osun State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Abdulrasaq Abubakar Toyin University, Oke-Ogba, Ganmo, Ilorin, Kwara State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Southern Atlantic University, Uyo, Akwa Ibom State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Lens University, Ilemona, Kwara State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Monarch University, Iyesi-Ota, Ogun State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Tonine Iredia University of Communication, Benin City, Edo State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Isaac Balami University of Aeronautics and Management, Lagos State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  },
+  {
+    "name": "Kevin Eze University, Mgbowo, Enugu State",
+    "type": "Private",
+    "location": "",
+    "schoolFees": 50000,
+    "accommodation": {
+      "hostel": 20000,
+      "feeding": 15000
+    },
+    "courses": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Economics"
+    ],
+    "postUtmeDate": "2025-08-15",
+    "hasPostUtme": true,
+    "cutOffMark": 180,
+    "aboutSchool": "Private university listed by NUC"
+  }
+]
